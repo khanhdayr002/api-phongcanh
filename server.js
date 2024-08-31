@@ -90,7 +90,7 @@ function restartProgram() {
 
 // Thực hiện cuộc gọi API
 const apiEndpoints = [
-  'https://facebook.com/kzkhanh547',
+  'https://www.facebook.com/profile.php?id=100085073240621',
   'https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/',
   'https://87fe0029-a5c4-45a3-bc8e-2782d1b6c6f7-00-uabqti4gbjvq.pike.replit.dev/blog'
 ];
